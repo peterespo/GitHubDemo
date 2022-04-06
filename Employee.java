@@ -1,4 +1,4 @@
-
+// Peter Esposito
 public class Employee extends Person {
 
 	/**
@@ -36,7 +36,7 @@ public class Employee extends Person {
 
 	public Employee() {
 		// initialize fields.
-		this("(2) Invoke Employee’s overloaded constructor");
+		this("(2) Invoke Employeeï¿½s overloaded constructor");
 		this.employeeNo = 0;
 		this.accountNo = 0;
 		this.emailAddress = "";
